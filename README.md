@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Linting & Formatting at my current job**
 
-- 📫 How to reach me **linkedin.com/in/ritvij-saxena**
+- 📫 How to reach me **[linkedin.com/in/ritvij-saxena](https://www.linkedin.com/in/ritvij-saxena/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
