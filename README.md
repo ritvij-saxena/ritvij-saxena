@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritvij-saxena" alt="ritvij-saxena" /></a> </p>
 
-- 🔭 I’m currently working on **Linting & Formatting at my current job**
+- 🔭 I’m currently working on **Internal Tools for Code Quality**
 
 - 📫 How to reach me **[linkedin.com/in/ritvij-saxena](https://www.linkedin.com/in/ritvij-saxena/)**
 
